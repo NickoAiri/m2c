@@ -26,6 +26,11 @@ sudo apt update
 sudo apt install python3-pip
 ```
 
+Note:
+```
+doing "python m2c.py file.S", took care of the dependency stuff years ago so forgot about that part
+```
+
 ## Usage
 
 ```bash
